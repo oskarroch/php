@@ -1,1 +1,2 @@
-# php
+wyświetl obrazki z pliku picture
+
